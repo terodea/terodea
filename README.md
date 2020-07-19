@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building distributed analytical systems.
+- 🌱 I’m currently learning distributed logging.
+- 👯 I’m looking to collaborate on distributed dataframe.
+- 🤔 I’m looking for help with DevOps (MlOps)
+- 💬 Ask me about distributed systems.
+- 📫 How to reach me: terodeakshay@gmail.com
+- ⚡ Fun fact: Don't take above mentioned things seriously.
+
+
 <!--
 **terodea/terodea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
