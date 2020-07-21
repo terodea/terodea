@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey 👋
+
+Hi, I’m Akshay!  I’m a software engineer who is passionate about doing **open source** development, (everything involved with) **building products**, (everything involved in) **distributed systems**, and most of all **simplifying things**.
+
+🌍 Find me on the web:
+
+- Tweets: [@akshay](https://twitter.com/TerodeAkshay)
+- Blog: [terodea.github.io](https://terodea.github.io)
+- LinkedIn: [takshay](https://www.linkedin.com/in/takshay/)
+
+
 
 - 🔭 I’m currently working on building distributed analytical systems.
 - 🌱 I’m currently learning distributed logging.
@@ -10,16 +20,6 @@
 
 
 <!--
-**terodea/terodea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+TODO: Add more info and profile pic on right hand side.
+2. Convert it to a professional resume/ Cover letter.
 -->
