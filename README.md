@@ -9,7 +9,7 @@ Hi, I’m Akshay!  I’m a software engineer who is passionate about doing **ope
 - LinkedIn: [takshay](https://www.linkedin.com/in/takshay/)
 
 
-
+Some quick info about me:
 - 🔭 I’m currently working on building distributed analytical systems.
 - 🌱 I’m currently learning distributed logging.
 - 👯 I’m looking to collaborate on distributed dataframe.
