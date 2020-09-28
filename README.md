@@ -16,10 +16,9 @@ Some quick info about me:
 - 🤔 I’m looking for help with DevOps (MlOps)
 - 💬 Ask me about distributed systems.
 - 📫 How to reach me: terodeakshay@gmail.com
-- ⚡ Fun fact: Don't take above mentioned things seriously.
-
 
 <!--
+- ⚡ Fun fact: Don't take above mentioned things seriously.
 TODO: Add more info and profile pic on right hand side.
 2. Convert it to a professional resume/ Cover letter.
 -->
