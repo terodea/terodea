@@ -1,11 +1,11 @@
 ### Hey 👋
 
-Hi, I’m Akshay!  I’m a software engineer who is passionate about doing **open source** development, (everything involved with) **building products**, (everything involved in) **distributed systems**, and most of all **simplifying things**.
+Hi, I’m Akshay!  I’m a software engineer who is passionate about learning & doing **open source** development, (everything involved with) **big data tools**, (everything involved in) **distributed systems**, and most of all **simplifying things**.
 
 🌍 Find me on the web:
 
 - Tweets: [@akshay](https://twitter.com/TerodeAkshay)
-- Blog: [terodea.github.io](https://terodea.github.io)
+- Portfolio: [terodea.github.io](https://terodea.github.io)
 - LinkedIn: [takshay](https://www.linkedin.com/in/takshay/)
 
 
@@ -14,8 +14,8 @@ Some quick info about me:
 - 🌱 I’m currently learning distributed logging.
 - 👯 I’m looking to collaborate on distributed dataframe.
 - 🤔 I’m looking for help with DevOps (MlOps)
-- 💬 Ask me about distributed systems.
-- 📫 How to reach me: terodeakshay@gmail.com
+- 💬 Ask me about big data & distributed systems.
+- 📫 How to reach me: **terodeakshay@gmail.com**
 
 <!--
 - ⚡ Fun fact: Don't take above mentioned things seriously.
