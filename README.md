@@ -1,6 +1,12 @@
 ### Hey 👋
 
-Hi, I’m Akshay!  I’m a software engineer who is passionate about learning & doing **open source** development, (everything involved with) **big data tools**, (everything involved in) **distributed systems**, and most of all **simplifying things**.
+Hi, I’m Akshay!  <br>
+I’m a software engineer-data who is passionate about learning & doing **open source** development, (everything involved with) **big data**, (everything involved in) **distributed systems**, and most of all **simplifying things**.
+
+- [Portfolio](https://terodea.github.io) </br>
+- [LinkedIn](https://www.linkedin.com/in/takshay/)
+- terodeakshay@gmail.com
+
 <!--
 🌍 Find me on the web:
 - Tweets: [@akshay](https://twitter.com/TerodeAkshay)
