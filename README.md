@@ -1,7 +1,7 @@
 ### Hey 👋
 
 Hi, I’m Akshay!  <br>
-I’m a software engineer-data who is passionate about learning & doing **open source** development, (everything involved with) **big data**, (everything involved in) **distributed systems**, and most of all **simplifying things**.
+I’m a software engineer-data who is passionate about learning & building **data pipeline(s) and platforms** , (everything involved with) **any form od data(big, small, etc)**, (everything involved in) **distributed systems**, and most of all **simplifying things**.
 
 - [Portfolio](https://terodea.github.io) </br>
 - [LinkedIn](https://www.linkedin.com/in/takshay/)
